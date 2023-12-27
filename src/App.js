@@ -63,6 +63,7 @@ function App() {
 
   useEffect(() => {
     doRandom();
+    // eslint-disable-next-line
   }, []);
 
   return (

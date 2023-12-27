@@ -50,7 +50,7 @@ h4 {
   margin: 10px;
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 900px) {
   .avatar {
     top: 10px;
   }
