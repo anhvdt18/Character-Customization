@@ -42,7 +42,9 @@ h4 {
   background-color: #fff;
   border: #f79845 solid 8px;
   border-radius: 10%;
-  min-width: 350px;
+  min-width: 250px;
+  width: 350px;
+  max-width: 350px;
   height: 350px;
   display: flex;
   justify-content: space-between;
@@ -82,7 +84,7 @@ h4 {
 }
 
 .avatar-part {
-  width: 250px;
+  max-width: 250px;
   position: absolute;
   align-self: flex-end;
   top: 0px;
@@ -114,7 +116,8 @@ h4 {
 .select-box {
   border: dashed 3px rosybrown;
   border-radius: 30px;
-  width: 500px;
+  max-width: 500px;
+  min-width: 250px;
   margin: 10px;
 }
 .icon {
