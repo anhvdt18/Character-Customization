@@ -39,7 +39,7 @@ h4 {
 }
 
 .avatar {
-  background-color: #ffaa69;
+  background-color: #ffaa6986;
   border: #f79845 solid 8px;
   border-radius: 10%;
   display: flex;
@@ -61,7 +61,7 @@ h4 {
   }
   .random-btn {
     width: 100px;
-    height: 20px;
+    height: 30px;
     font-size: 10px;
   }
 
@@ -151,7 +151,7 @@ h4 {
 }
 
 .icon {
-  background-color: #ffc698;
+  background-color: hsl(26, 100%, 73%);
   border: solid 2px rgb(254, 24, 89);
   box-shadow: 1px 1px 5px orangered;
   border-radius: 20%;
