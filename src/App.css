@@ -50,13 +50,14 @@ h4 {
   justify-content: space-between;
   position: sticky;
   margin: 10px;
+  top: 10px;
 }
 
-@media only screen and (min-width: 928px) {
+/* @media only screen and (min-width: 928px) {
   .avatar {
     top: 10px;
   }
-}
+} */
 
 .random-btn {
   color: rgb(255, 89, 0);
