@@ -122,16 +122,16 @@ h4 {
   margin: 10px;
 }
 .icon {
-  background-color: #ffffff;
-  border: solid 2px rgb(241, 7, 179);
+  background-color: #ffc698;
+  border: solid 2px rgb(254, 24, 89);
   box-shadow: 1px 1px 5px orangered;
   border-radius: 20%;
-  width: 50px;
+  width: 60px;
   margin: 3px;
 }
 .icon:hover {
   transform: scale(1.01);
 }
 .icon:active {
-  border: tomato solid 2px;
+  border: rgb(168, 29, 255) solid 2px;
 }
